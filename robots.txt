@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jakartapost.github.io/berita/sitemap.xml
